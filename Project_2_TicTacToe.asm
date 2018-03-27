@@ -1,4 +1,4 @@
-TITLE Simple Calculator
+TITLE Tic-Tac-Toe
 
 ; Adds, Subtracts, Multiplies, and Divides user input numbers
 ; DIVISION FUNCTION DOES NOT WORK
